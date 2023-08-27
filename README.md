@@ -38,7 +38,7 @@ To contribute:
 | [Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search)                                                                        | Calgary and Montreal          | Unknown               | Technology Summer Analyst Program                                                              |
 | [Ontario Teachers Pension Plan](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers)                                                               | Toronto                       | Before September 30th | Product Engineering Intern, Middleware Analyst Intern, Solution Engineering Intern - 16 Months |
 | [Harris Computer Systems](https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Saint-Laurent-Quebec/Software-Development-Intern_R0021501-1)            | Saint-Laurent, Quebec         | Unknown               | Software Development Intern                                                                    |
-
+| [Scale AI](https://boards.greenhouse.io/scaleai/jobs/4305863005)            | San Francisco         | Unknown               | Software Engineering Intern                                                                    |
 # 🌻 Upcoming Applications
 
 ## Based on 2023 Internship Openings
